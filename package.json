@@ -1,0 +1,22 @@
+{
+  "name": "user-authentication-package",
+  "version": "1.0.0",
+  "description": "This package is used for authentication",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tulsikhatri2/user-authentication-package.git"
+  },
+  "keywords": [
+    "authentication"
+  ],
+  "author": "Tulsi Khatri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tulsikhatri2/user-authentication-package/issues"
+  },
+  "homepage": "https://github.com/Tulsikhatri2/user-authentication-package#readme"
+}
